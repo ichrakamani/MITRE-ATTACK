@@ -1,4 +1,4 @@
-# MITRE-ATTACK Matrix for financial sector
+# MITRE-ATT&CK Matrix for financial sector
 
 The corresponding JSON file is a MITRE ATT&CK matrix customized specifically for the financial sector, the file should be used within MITRE ATT&CK Navigator.
 
